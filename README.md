@@ -28,6 +28,9 @@ CoNFeReNCe
 cannot spell word
 
 You can copy the following code snippet to begin your code with.
+
+
+
 public class test {
     public static void main(String args[]) {
         String[] elements = { "H", "He", "Li", "Be", "B", "C", "N", "O", "F", "Ne", "Na", "Mg", "Al", "Si", "P", "S", "Cl",
@@ -66,7 +69,7 @@ public class test {
     public static String spellWord(String word, String[] elements) {
         // your logic
     }
-
+}
               
              
 to start your code with.
